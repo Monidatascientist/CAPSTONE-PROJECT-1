@@ -37,11 +37,11 @@ This project provides an in-depth analysis of anthropometric data for male and f
 
 ## 📊 Visualizations
 
-### ✨ Statistical Summary Snapshot
-<img src="images/scatterplot.png" alt="Statistical Summary" width="600"/>
+### ✨ scatterplot Summary Snapshot
+<img src="Images/scatterplot.png" alt="scatterplot Summary" width="600"/>
 
 ### ✨ WHtR and WHR Boxplot Comparison
-<img src="images/whtr_boxplot.png" alt="WHtR and WHR Boxplot" width="600"/>
+<img src="Images/whtr_boxplot.png" alt="WHtR and WHR Boxplot" width="600"/>
 
 ---
 
